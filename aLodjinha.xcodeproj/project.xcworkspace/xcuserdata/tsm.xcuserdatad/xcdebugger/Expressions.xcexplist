@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ProductListTableViewCell.touch_product(_:):ProductListTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.cellImage.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "aLodjinhaUITests.testAppHomeTapCategoriesShowProductList():aLodjinhaUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "listCells.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.addNavigationBarLogo():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationItem.titleView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RequestManager.requestGET(urlString:):RequestManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "paymentsTemp[0][0]">
+            </PersistentString>
+            <PersistentString
+               value = "dict[&quot;descricao&quot;] as! String">
+            </PersistentString>
+            <PersistentString
+               value = "payment[&quot;id&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.tableView(_:numberOfRowsInSection:):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productManager.getQtyProduct()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.prepare(for:sender:):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.destination">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AboutViewController.fillHeader():AboutViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductCategoryListViewController.fillProductsByCategoryId():ProductCategoryListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dictionaryProducts[0]">
+            </PersistentString>
+            <PersistentString
+               value = "productModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.fillCategory():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productCategory.categoryImage.image">
+            </PersistentString>
+            <PersistentString
+               value = "dictCategoryProduct[&quot;descricao&quot;] as! String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "aLodjinhaUITests.testAppShowAboutScreen():aLodjinhaUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "appInTest">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "aLodjinhaUITests.testAppHomeBannerReallyRotateToRight():aLodjinhaUITests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductCategoryListViewController.tableView(_:willDisplay:forRowAt:):ProductCategoryListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rowOffset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductCategoryListViewController.tableView(_:numberOfRowsInSection:):ProductCategoryListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.productManager.getProductModels().count">
+            </PersistentString>
+            <PersistentString
+               value = "productManager.getQtyProduct()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductCategoryListViewController.tableView(_:cellForRowAt:):ProductCategoryListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rowOffset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
