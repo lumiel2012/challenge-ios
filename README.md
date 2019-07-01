@@ -2,6 +2,20 @@
 
 Versão mínima: iOS 9</br>
 Linguagem: Swift</br>
+<b>Autor:</b> Ricardo Silva de Barros
+
+Desafio aLodjinha projeto desenvolvido de forma enxuta e sem a utilização de bibliotecas de terceiros, usando apenas os recursos nativos do SWIFT.
+
+<b><i>Para executar basta: Build & Run</i</b>
+
+* <b/>Todas as funcionalidades foram implementadas.</b>
+* <b>O Layout está aderente a todos os devices do storyBoard.</b>
+* <b>Estão inclusos testes unitários e UITest XCode.</b>
+
+Exemplo da aplicação em funcionamento !!!
+
+![](DesafioAmeDigital.gif)
+
 
 Serão consideradas funcionalidades completas se:</br>
 - O descritivo da funcionalidade for implementado completamente.</br>
