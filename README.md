@@ -6,7 +6,7 @@ Linguagem: Swift</br>
 
 Desafio aLodjinha projeto desenvolvido de forma enxuta e sem a utilização de bibliotecas de terceiros, usando apenas os recursos nativos do SWIFT.
 
-<b><i>Para executar basta: Build & Run</i</b>
+<b><i>Para executar basta: Build & Run</i></b>
 
 * <b/>Todas as funcionalidades foram implementadas.</b>
 * <b>O Layout está aderente a todos os devices do storyBoard.</b>
